@@ -141,6 +141,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 * [Visualizing Projections](http://shaunlebron.github.io/visualizing-projections/) - Visualizing multiple camera projection techniques.
 * [Entropy Explained, With Sheep](https://aatishb.github.io/entropy/)
 * [Pink Trombone](http://dood.al/pinktrombone/) - Hands-On Vocal Tract Simulation.
+* [Wator](https://explorewator.com) - Wa-Tor, a population dynamics simulation.
 
 ## Physics
 *[&#8593; top](#contents)*
